@@ -1,0 +1,9 @@
+image: docker.pipem.io/provider-bitbucket
+version: VERSION
+
+replicas: 1
+
+log:
+  level: "info"
+
+provider: bitbucket

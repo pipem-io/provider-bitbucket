@@ -15,4 +15,4 @@ helm upgrade provider-bitbucket pipem/provider-bitbucket --namespace pipem -i
 
 # Configuration
 
-Read more on [docs.pipem.io](https://docs.pipem.io)
+Read more on [docs.pipem.io](https://docs.pipem.io).
